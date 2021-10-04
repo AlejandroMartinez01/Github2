@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "Github2",
+			"path": "Github2"
 		}
 	],
 	"settings": {}
